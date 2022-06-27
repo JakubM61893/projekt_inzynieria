@@ -1,0 +1,7 @@
+C:\Users\Użytkownik\source\repos\inzynieria_projekt\inzynieria_projekt\inzynieria_projekt\bin\Debug\netstandard2.1\inzynieria_projekt.deps.json
+C:\Users\Użytkownik\source\repos\inzynieria_projekt\inzynieria_projekt\inzynieria_projekt\bin\Debug\netstandard2.1\inzynieria_projekt.dll
+C:\Users\Użytkownik\source\repos\inzynieria_projekt\inzynieria_projekt\inzynieria_projekt\bin\Debug\netstandard2.1\inzynieria_projekt.pdb
+C:\Users\Użytkownik\source\repos\inzynieria_projekt\inzynieria_projekt\inzynieria_projekt\obj\Debug\netstandard2.1\inzynieria_projekt.msbuildproj.AssemblyReference.cache
+C:\Users\Użytkownik\source\repos\inzynieria_projekt\inzynieria_projekt\inzynieria_projekt\obj\Debug\netstandard2.1\inzynieria_projekt.msbuildproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\source\repos\inzynieria_projekt\inzynieria_projekt\inzynieria_projekt\obj\Debug\netstandard2.1\inzynieria_projekt.dll
+C:\Users\Użytkownik\source\repos\inzynieria_projekt\inzynieria_projekt\inzynieria_projekt\obj\Debug\netstandard2.1\inzynieria_projekt.pdb
